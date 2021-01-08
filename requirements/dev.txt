@@ -1,0 +1,8 @@
+-r ./base.txt
+rpdb
+tqdm
+ipython
+flake8
+pep8
+django-silk
+django-debug-toolbar
